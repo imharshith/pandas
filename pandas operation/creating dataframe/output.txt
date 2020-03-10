@@ -1,0 +1,8 @@
+#output for the placementdetail.py   
+   
+          NO_0F_OFFERS  ST_ELIGIBLE  ST_PLACED
+2014           567          738        422
+2015           618          780        528
+2016           588          853        467
+2017           561          856        468
+2018           555          812        449
